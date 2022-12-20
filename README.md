@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# CryptoBase
+
+(You will need to create a .env file to store your FireBase credentials)
+
+CryptoBase supports user authentication using firebase. Users are able to create a new account using their email address and can then sign in to save cryptocurrencies to a user specific list. This is made possble by creating a firestore cloud storage database at the time of user registration.
+
+
+------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
